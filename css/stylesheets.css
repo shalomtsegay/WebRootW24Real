@@ -1,8 +1,8 @@
-.bio {
+.bioSection {
     background-color: lightgreen;
 }
 
 /* Set the background color for the picture and education sections to light brown */
-.picture, .education {
+.pictureSection, .educationSection {
     background-color: lightbrown;
 }
